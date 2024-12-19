@@ -1,4 +1,4 @@
-# Blinkit-Orders-Dashboard  
+# AMAZON Sales Dashboard  
 
 ### Dashboard Link: [https://app.powerbi.com/links/39Dovd3dfL?ctid=634bb93c-4f3e-42e2-a5eb-68956bc5a9a2&pbi_source=linkShare]
 
